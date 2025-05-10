@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**undercover-fish/undercover-fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+just trying to get by in this vast ocean
+</br>
+<a href="https://undercover.fish">
+<strong>visit my personal website</strong>
+</br>
+</br>
+<p>
+<img src="images/fish2.gif" alt="Fish" width="100"/>
+<img src="images/fish.gif" alt="Fish" width="100"/>
+</a>
+</p>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=undercover-fish&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
