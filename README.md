@@ -1,5 +1,5 @@
 <div align="center">
-just trying to get by in this vast ocean
+just a fish trying to get by in this vast ocean
 </br>
 <a href="https://undercover.fish">
 <strong>visit my personal website</strong>
